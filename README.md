@@ -66,3 +66,6 @@ Haz un Push a la rama (git push origin feature/MejoraGhost).
 Abre un Pull Request.
 
 Desarrollado bajo el Protocolo Ghost. 👻
+
+<img width="602" height="417" alt="image" src="https://github.com/user-attachments/assets/6ad9359c-bfcd-4a26-8ee2-47b5255f1388" />
+
